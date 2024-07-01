@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-01T19:16:32.186Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="EeKpuq_4FOovcD5UYbqu" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-01T19:20:01.875Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="SEvBUuarW7E34XulWbAg" version="24.6.4" type="github">
   <diagram name="Page-1" id="jrThCYsuS3wixjycTsM8">
     <mxGraphModel dx="2950" dy="2458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -206,7 +206,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1L5787LJu1XgPHwTJM3e-33" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;192.168.0.0/24&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="19" y="260" width="140" height="30" as="geometry" />
+          <mxGeometry x="30" y="160" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1L5787LJu1XgPHwTJM3e-34" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;172.16.0.0/16&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="490" y="490" width="130" height="30" as="geometry" />
@@ -220,6 +220,11 @@
         <mxCell id="1L5787LJu1XgPHwTJM3e-38" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;EVE-NG&lt;/font&gt;&lt;div style=&quot;font-size: 25px;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Server&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-220" y="320" width="120" height="70" as="geometry" />
         </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 17px;&quot;&gt;How draw.io works&lt;/font&gt;" link="https://app.diagrams.net/?src=about#HSohal-03%2FDraw.io%2Fmain%2FStarting%2Fstarting.drawio%23{&quot;pageId&quot;%3A&quot;WkjME66y32wmrguLPD_M&quot;}" linkTarget="_blank" id="1L5787LJu1XgPHwTJM3e-41">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;" vertex="1" parent="1">
+            <mxGeometry x="-390" y="210" width="60" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
