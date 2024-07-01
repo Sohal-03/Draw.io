@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-01T20:19:27.405Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="Z4bxktPJqBS7rmGBlN9f" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-01T20:25:27.315Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="ECo8gGuRWAQ2iyx4yGbA" version="24.6.4" type="github">
   <diagram name="Page-1" id="7uZ24tVlsC-XGDb4ShXH">
     <mxGraphModel dx="1050" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="370" y="220" width="22" height="62" as="geometry" />
         </mxCell>
         <mxCell id="59tj9h7anv_jdYhijf_V-5" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Task 1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="220" y="90" width="70" height="30" as="geometry" />
+          <mxGeometry x="225" y="90" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="59tj9h7anv_jdYhijf_V-6" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#007FFF;edgeStyle=orthogonalEdgeStyle;flowAnimation=1;exitX=1.057;exitY=0.427;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="59tj9h7anv_jdYhijf_V-5" target="59tj9h7anv_jdYhijf_V-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -45,6 +45,18 @@
             <mxPoint x="314" y="123" as="sourcePoint" />
             <mxPoint x="361" y="150" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="59tj9h7anv_jdYhijf_V-11" value="Backup&lt;div&gt;Person&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="395" y="431" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="59tj9h7anv_jdYhijf_V-12" value="Main&lt;div&gt;Person&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="351" y="338" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="59tj9h7anv_jdYhijf_V-13" value="Main&lt;br&gt;Person" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="351" y="120" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="59tj9h7anv_jdYhijf_V-14" value="Backup&lt;br&gt;Person" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="395" y="231" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
